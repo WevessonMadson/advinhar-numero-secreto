@@ -13,7 +13,7 @@
 
 <br/>
 
-[Acesso ao jogo]()
+[Acesso ao jogo](https://wevessonmadson.github.io/advinhar-numero-secreto/)
 
 <br/><br/>
 <img src="./img/foto_readme.png">
